@@ -1,3 +1,12 @@
+# Python mail spoofer - Power API for mail-spoofing
+# Copyright (c) 2025 Treizd
+#
+# This file is part of python-mail-spoofer project.
+#
+# Python mail spoofer is free software: you can redistribute it and/or modify
+# it under the terms of the MIT License. See the LICENSE file for details.
+
+
 import asyncio
 import aiohttp
 

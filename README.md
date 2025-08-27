@@ -7,6 +7,10 @@ This script uses `aiohttp` and `asyncio` to send an email via a web endpoint
 ## AWARE
 - In some jurisdictions, spoofing is illegal and subject to legal prosecution; the script author is not responsible for user actions, does not encourage its use, and presents it for informational purposes only
 
+## DEPRECATION
+- PHP file code is not safe and well-written. Consider updating it and fixing some bugs
+- API uses "GET" method, should be changed to "POST" instead
+
 ## Prerequisites
 
 - Python 3.7 or higher
